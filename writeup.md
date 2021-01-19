@@ -8,16 +8,11 @@ The goals / steps of this project are the following:
 
 The code can be found in the file P1.ipynb. And the reflect is shown as following.
 
-
-[//]: # (Image References)
-
-[solidWhiteCurve]: ./test_images_output/output_solidWhiteCurve.jpg "Solid White Curve"
-
 ---
 
 ## Reflection
 
-## 1. Description of my pipeline. 
+### 1. Description of my pipeline. 
 
 My pipeline is put in the for-loop, which is for iterating through all images. All images are dealt with 6 steps: 
    
